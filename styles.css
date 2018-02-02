@@ -1,0 +1,33 @@
+* {
+    color: black;
+}
+
+.nav li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    display: block;
+    padding: 20px;
+}
+
+
+.nav li a:visited {
+    color: black;
+}
+
+
+.nav li a:hover {
+    color: red;
+    background-color: yellow;
+}
+
+.tagLine {
+    margin-top: -30px;
+    text-align: center;
+}
+
+.nameTitle {
+    text-align: center;
+    margin-top: 30px;
+}
